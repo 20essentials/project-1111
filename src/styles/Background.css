@@ -1,0 +1,25 @@
+.background-effect {
+  position: fixed;
+  display: flex;
+  flex-wrap: wrap;
+  place-content: center;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+  background: #034a2a;
+  background-image: linear-gradient(
+    135deg,
+    #000000,
+    #0a0a0a,
+    #1a1a1a,
+    #2a2a2a,
+    #3a3a3a,
+    #1b3e2e,
+    #0f5e43,
+    #1e6e4b,
+    #2f995a,
+    #157f3c,
+    #036429,
+    #036429
+  );
+}
